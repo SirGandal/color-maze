@@ -3,8 +3,13 @@ Escape the maze based on the provided color sequence.
 Here I use React to create a basic interactive solution and a Breadth First Search that takes into account the color sequence to identifiy the possible states reachable from a given state.
 
 ## Screenshots
+Starting maze:
 ![unsolved maze](./screenshots/maze-unsolved.png)  
-![solved maze](./screenshots/maze-solved.png)
+
+Solved maze:  
+![solved maze](./screenshots/maze-solved.png)  
+
+A maze that cannot be solved:
 ![unsolvable maze](./screenshots/unsolvable-maze.png)
 
 ## Description  
