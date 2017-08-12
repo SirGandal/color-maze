@@ -23,7 +23,7 @@ You can move horizontally and vertically, but not diagonally. It is also allowed
 
 ### Input description
 
-You will recieve a line with the sequence to follow and all the lines after that are the maze.
+You will receive a line with the sequence to follow and all the lines after that are the maze.
 
     O G
     B O R O Y
