@@ -1,6 +1,6 @@
 # color-maze
 Escape the maze based on the provided color sequence.
-Here I use React to create a basic interactive solution and a Breadth First Search that takes into account the color sequence to identifiy the possible states reachable from a given state.
+Here I use React to create a basic interactive solution and a Breadth First Search that takes into account the color sequence to identify the possible states reachable from a given state.
 
 ## Screenshots
 Starting maze:
